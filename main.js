@@ -9,3 +9,7 @@ function goodBye(me){
 function thankYou(me){
     me.thankYou = 'Thank you';
 }
+
+function eatSomeThing(me) {
+    me.eatSomeThing = 'Something';
+}
